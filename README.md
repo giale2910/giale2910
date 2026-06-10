@@ -1,15 +1,36 @@
 ## Hi there 👋
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 
+# Hi 👋, I'm Le
 
-**giale2910/giale2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Web Developer | Computer Science student |  AI Enthusiast
 
-Here are some ideas to get you started:
+---
 
+### 🧑‍💻 About me
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🧑‍💻 I’m building personal projects
+---
+
+### ⚒️ Tech Stack
+💻 Languages: Python, JavaScript, C++
+⚙️ Frameworks: React, Node.js
+🛠 Tools: Git, Docker, VS Code
+
+  ---
+
+### 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+## 📫 Contact
+- Email: example@gmail.com
+- LinkedIn: ...
+- GitHub: ...
+  
+<p align="center">
+  Thanks for visiting 🚀
+</p>
