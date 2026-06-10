@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="./banner.png" width="100%">
+  <img src="./anhbia.JPG" width="100%">
 </p>
 
 # Hi 👋, I'm Le
