@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <p align="center">
   <img src="./anhbia.JPG" width="100%">
 </p>
